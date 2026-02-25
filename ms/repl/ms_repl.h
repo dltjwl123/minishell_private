@@ -17,7 +17,7 @@
 
 # include "ms.h"
 # include "ft_types.h"
-# include <sys/_types/_pid_t.h>
+# include <sys/types.h>
 
 typedef struct s_ms_repl_string_list_node
 {

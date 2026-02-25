@@ -15,8 +15,7 @@
 #include "ms.h"
 #include "ms_execute.h"
 
-#include <sys/_types/_size_t.h>
-#include <sys/_types/_ssize_t.h>
+#include <sys/types.h>
 #include <sys/fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>

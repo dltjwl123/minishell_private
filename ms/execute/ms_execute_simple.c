@@ -19,11 +19,11 @@
 #include "ms_builtin.h"
 #include "ms_execute.h"
 
-#include <_stdio.h>
+#include <stdio.h>
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <sys/_types/_pid_t.h>
+#include <sys/types.h>
 #include <sys/unistd.h>
 #include <sys/wait.h>
 #include <unistd.h>

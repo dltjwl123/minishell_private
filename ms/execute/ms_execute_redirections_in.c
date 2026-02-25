@@ -14,8 +14,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <sys/_types/_pid_t.h>
-#include <sys/_types/_ssize_t.h>
+#include <sys/types.h>
 #include <sys/fcntl.h>
 #include <unistd.h>
 

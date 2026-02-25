@@ -16,7 +16,7 @@
 # include "ms.h"
 
 # include <stdbool.h>
-# include <sys/_types/_pid_t.h>
+#include <sys/types.h>
 
 # include "ft_types.h"
 # include "ft_stringbuilder.h"

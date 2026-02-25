@@ -15,7 +15,7 @@
 #include "ms_builtin.h"
 
 #include <stdio.h>
-#include <sys/_types/_size_t.h>
+#include <sys/types.h>
 #include <stdlib.h>
 #include <unistd.h>
 

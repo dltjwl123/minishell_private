@@ -13,7 +13,7 @@
 #include "ft_cstring.h"
 #include "ft_types.h"
 #include "ms_expand.h"
-#include <sys/_types/_size_t.h>
+#include <sys/types.h>
 
 t_err	ms_expand_env_init(char **envp)
 {

@@ -13,7 +13,7 @@
 #include "ms_execute.h"
 
 #include <stdlib.h>
-#include <sys/_types/_pid_t.h>
+#include <sys/types.h>
 #include <unistd.h>
 
 #include "ft_os_pipe.h"

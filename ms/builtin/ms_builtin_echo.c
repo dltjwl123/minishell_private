@@ -15,7 +15,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <sys/_types/_size_t.h>
+#include <sys/types.h>
 #include <unistd.h>
 
 #include "ft_types.h"
